@@ -3,6 +3,7 @@
 
 1. hw3-task.ipynb - оригинальный ноутбук   
 2. hw3-task_mike.ipynb - тут мы задрали чуть-чуть ROC_AUC для DecisionTreeClassifier c перебором параметров   
+3. hw3-task_elena.ipynb - другой вариант решения задачи
 
 # Team members
 
