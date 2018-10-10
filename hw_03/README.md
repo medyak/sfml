@@ -5,6 +5,7 @@
 2. hw3-task_mike.ipynb - тут мы задрали чуть-чуть ROC_AUC для DecisionTreeClassifier c перебором параметров   
 3. hw3-task_elena.ipynb - другой вариант решения задачи   
 4. hw3-task_vitaliy.ipynb - более иная версия (компиляция предыдущих вариантов?)
+5. hw3-task_kyrylo.ipynb - ноутбук победителя
 
 # Team members
 
